@@ -20,7 +20,7 @@ I am a passionate software developer with a keen interest in full-stack web deve
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LARAVEL](https://img.shields.io/badge/laravel%20-%23e62d15.svg?&style=for-the-badge&logo=laravel&logoColor=%23FFFFFF)
-![DJANGO](https://img.shields.io/badge/django%20-%23e62d15.svg?&style=for-the-badge&logo=django&logoColor=%23FFFFFF)
+![DJANGO](https://img.shields.io/badge/django%20-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=%23FFFFFF)
 ![PHP](https://img.shields.io/badge/php%20-%23484C89.svg?&style=for-the-badge&logo=php&logoColor=%23FFFFFF)
 ![PYTHON](https://img.shields.io/badge/python%20-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=%23000000)
 ![VUE](https://img.shields.io/badge/vue.js%20-%232e5447.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08DF)
