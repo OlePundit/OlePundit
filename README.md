@@ -48,7 +48,6 @@ I am a passionate software developer with a keen interest in full-stack web deve
 
 
 
-### Hi there 👋
 
 <!--
 **OlePundit/OlePundit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
