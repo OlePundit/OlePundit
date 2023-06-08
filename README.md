@@ -1,7 +1,6 @@
-<h1>SellorBuyKe</h1>
+<h1>Glenn Omondi</h1>
 <h2>
-SellorBuyKe is an open-source ecommerce and social media app built using Laravel, Vue.js, HTML, CSS and Bootstrap.
-</h2>
+Full stack Developer</h2>
 <p>
 I am a passionate software developer with a keen interest in full-stack web development(backend heavy). That said, I have eagerly expanded my skills in this area of expertise; by learning languages such as python and PHP, together with their associated frameworks, including Laravel and Django. Modern websites need to be interactive, and that's why even though I have a bias for the backend. I have, also considerably honed my skills in HTML, CSS, Bootstrap, Javascript and Vue.js. I also possess the ability to perform system operations in Nginx and Apache. I am currently learning cybersecurity, and emerging technologies such as web3, and Machine learning.
 </p>
